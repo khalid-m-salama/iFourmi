@@ -1,0 +1,38 @@
+C:\0 - Khalid\Academics\Programs\ACO-NN\NeuralNetworks\bin\Debug\iFourmi.NeuralNetworks.dll
+C:\0 - Khalid\Academics\Programs\ACO-NN\NeuralNetworks\bin\Debug\iFourmi.NeuralNetworks.pdb
+C:\0 - Khalid\Academics\Programs\ACO-NN\NeuralNetworks\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Programs\ACO-NN\NeuralNetworks\obj\Debug\iFourmi.NeuralNetworks.dll
+C:\0 - Khalid\Academics\Programs\ACO-NN\NeuralNetworks\obj\Debug\iFourmi.NeuralNetworks.pdb
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\NeuralNetworks\bin\Debug\iFourmi.NeuralNetworks.dll
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\NeuralNetworks\bin\Debug\iFourmi.NeuralNetworks.pdb
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\NeuralNetworks\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\NeuralNetworks\obj\Debug\iFourmi.NeuralNetworks.dll
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\NeuralNetworks\obj\Debug\iFourmi.NeuralNetworks.pdb
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\NeuralNetworks\bin\Debug\iFourmi.NeuralNetworks.dll
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\NeuralNetworks\bin\Debug\iFourmi.NeuralNetworks.pdb
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\NeuralNetworks\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\NeuralNetworks\obj\Debug\iFourmi.NeuralNetworks.dll
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\NeuralNetworks\obj\Debug\iFourmi.NeuralNetworks.pdb
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\NeuralNetworks\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\NeuralNetworks\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\NeuralNetworks\bin\Debug\iFourmi.NeuralNetworks.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\NeuralNetworks\bin\Debug\iFourmi.NeuralNetworks.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\NeuralNetworks\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\NeuralNetworks\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\NeuralNetworks\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\NeuralNetworks\obj\Debug\iFourmi.NeuralNetworks.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\NeuralNetworks\obj\Debug\iFourmi.NeuralNetworks.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\NeuralNetworks\bin\Debug\iFourmi.NeuralNetworks.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\NeuralNetworks\bin\Debug\iFourmi.NeuralNetworks.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\NeuralNetworks\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\NeuralNetworks\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\NeuralNetworks\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\NeuralNetworks\obj\Debug\iFourmi.NeuralNetworks.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\NeuralNetworks\obj\Debug\iFourmi.NeuralNetworks.pdb
+D:\Academics\Programs\iFourmi-NN\NeuralNetworks\bin\Debug\iFourmi.NeuralNetworks.dll
+D:\Academics\Programs\iFourmi-NN\NeuralNetworks\bin\Debug\iFourmi.NeuralNetworks.pdb
+D:\Academics\Programs\iFourmi-NN\NeuralNetworks\bin\Debug\iFourmi.DataMining.dll
+D:\Academics\Programs\iFourmi-NN\NeuralNetworks\bin\Debug\iFourmi.DataMining.pdb
+D:\Academics\Programs\iFourmi-NN\NeuralNetworks\obj\Debug\NeuralNetworks.csprojResolveAssemblyReference.cache
+D:\Academics\Programs\iFourmi-NN\NeuralNetworks\obj\Debug\iFourmi.NeuralNetworks.dll
+D:\Academics\Programs\iFourmi-NN\NeuralNetworks\obj\Debug\iFourmi.NeuralNetworks.pdb

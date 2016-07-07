@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8809373F-A26E-47F8-AE3D-BA8D0CA247A9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>iFourmi.DataMining</RootNamespace>
+    <AssemblyName>iFourmi.DataMining</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Algorithms\Hierarchical\IHierarchicalClassificationAlgorithm.cs" />
+    <Compile Include="Algorithms\Hierarchical\LocalPerNodeClassificationAlgorithm.cs" />
+    <Compile Include="Algorithms\IClusteringAlgorithm.cs" />
+    <Compile Include="Algorithms\KMeans.cs" />
+    <Compile Include="ClassificationMeasures\ProbablisticMicroAccuracyMeasure.cs" />
+    <Compile Include="ClassificationMeasures\ProbabilityReducedErrorMeasure.cs" />
+    <Compile Include="ClassificationMeasures\ProbabilityAccuracyMeasure.cs" />
+    <Compile Include="ClassificationMeasures\MicroAccuracyMeasure.cs" />
+    <Compile Include="Data\HierarchicalAttribute.cs" />
+    <Compile Include="Data\ClassHierarchy.cs" />
+    <Compile Include="EnsembleStrategy\EnsembleStackClassificationStrategy.cs" />
+    <Compile Include="IO\Serializer.cs" />
+    <Compile Include="ClassificationMeasures\CertaintyFactorMeasure.cs" />
+    <Compile Include="ClassificationMeasures\ReducedErrorMeasure.cs" />
+    <Compile Include="ClassificationMeasures\KlosgenMeasure.cs" />
+    <Compile Include="ClassificationMeasures\RCostMeasure.cs" />
+    <Compile Include="ClassificationMeasures\MestimateMeasure.cs" />
+    <Compile Include="ClassificationMeasures\JaccardMeasure.cs" />
+    <Compile Include="ClassificationMeasures\SenstivitySpecificityMeasure.cs" />
+    <Compile Include="Model\ClassifierInfo.cs" />
+    <Compile Include="Algorithms\IClassificationAlgorithm.cs" />
+    <Compile Include="Model\Cluster.cs" />
+    <Compile Include="Model\ClusterExampleAssignment.cs" />
+    <Compile Include="Model\ClusteringSolution.cs" />
+    <Compile Include="Model\Hierarchical\IHierarchicalClassifier.cs" />
+    <Compile Include="Model\Hierarchical\LocalClassifier.cs" />
+    <Compile Include="Model\Hierarchical\LocalPerNodeClassifier.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Model\IClassifier.cs" />
+    <Compile Include="ClassificationMeasures\AccuracyMeasure.cs" />
+    <Compile Include="EnsembleStrategy\EnsembleWVoteClassificationStrategy.cs" />
+    <Compile Include="EnsembleStrategy\EnsembleVoteClassificationStrategy.cs" />
+    <Compile Include="EnsembleStrategy\EnsembleBestClassificationStrategy.cs" />
+    <Compile Include="ClassificationMeasures\FmeasureMeasure.cs" />
+    <Compile Include="ClassificationMeasures\ConfusionMatrix.cs" />
+    <Compile Include="Data\Attribute.cs" />
+    <Compile Include="Data\Dataset.cs" />
+    <Compile Include="Data\Example.cs" />
+    <Compile Include="Data\Metadata.cs" />
+    <Compile Include="IO\ArffParser.cs" />
+    <Compile Include="ClassificationMeasures\IClassificationQualityMeasure.cs" />
+    <Compile Include="EnsembleStrategy\IEnsembleClassificationStrategy.cs" />
+    <Compile Include="Model\Prediction.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProximityMeasures\BinaryMatchingSimilarityMeasure.cs" />
+    <Compile Include="ProximityMeasures\ClassBasedSimilarityMeasure.cs" />
+    <Compile Include="ProximityMeasures\CohesionClusteringEvaluator.cs" />
+    <Compile Include="ProximityMeasures\IClusteringSolutionQualityMeasure.cs" />
+    <Compile Include="ProximityMeasures\ISimilarityMeasure.cs" />
+    <Compile Include="Utilities\RandomUtility.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

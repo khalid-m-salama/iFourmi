@@ -1,0 +1,5 @@
+KNN
+NBayes
+JRip
+J48
+SVM

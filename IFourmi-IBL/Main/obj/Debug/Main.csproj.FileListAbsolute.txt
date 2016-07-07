@@ -1,0 +1,14 @@
+D:\Academics\Programs\IFourmi-IBL\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Academics\Programs\IFourmi-IBL\Main\bin\Debug\iFourmi.Main.exe.config
+D:\Academics\Programs\IFourmi-IBL\Main\bin\Debug\iFourmi.Main.exe
+D:\Academics\Programs\IFourmi-IBL\Main\bin\Debug\iFourmi.Main.pdb
+D:\Academics\Programs\IFourmi-IBL\Main\obj\Debug\iFourmi.Main.exe
+D:\Academics\Programs\IFourmi-IBL\Main\obj\Debug\iFourmi.Main.pdb
+D:\Academics\Programs\IFourmi-IBL\Main\bin\Debug\iFourmi.ACO.dll
+D:\Academics\Programs\IFourmi-IBL\Main\bin\Debug\iFourmi.ContinuousACO.dll
+D:\Academics\Programs\IFourmi-IBL\Main\bin\Debug\iFourmi.DataMining.dll
+D:\Academics\Programs\IFourmi-IBL\Main\bin\Debug\iFourmi.OptimizationFunctions.dll
+D:\Academics\Programs\IFourmi-IBL\Main\bin\Debug\iFourmi.ACO.pdb
+D:\Academics\Programs\IFourmi-IBL\Main\bin\Debug\iFourmi.ContinuousACO.pdb
+D:\Academics\Programs\IFourmi-IBL\Main\bin\Debug\iFourmi.DataMining.pdb
+D:\Academics\Programs\IFourmi-IBL\Main\bin\Debug\iFourmi.OptimizationFunctions.pdb

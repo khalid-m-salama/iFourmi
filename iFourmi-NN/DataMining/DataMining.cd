@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="iFourmi.DataMining.ClassificationMeasures.AccuracyMeasure" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>ClassificationMeasures\AccuracyMeasure.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.DataMining.ClassificationMeasures.MSError" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>ClassificationMeasures\MSError.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.DataMining.Data.Attribute" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAEAAAgAAQAAAAAAAAAAAEAAAAAABA=</HashCode>
+      <FileName>Data\Attribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iFourmi.DataMining.Data.Dataset" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAAAAAAAgBAEHgAAAAAADBAAAAAAAABAQAIEAAA=</HashCode>
+      <FileName>Data\Dataset.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.DataMining.Data.Example" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAEAAAAAAECBAgAAAAAAAAAAAAAAEgAAAEADA=</HashCode>
+      <FileName>Data\Example.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.DataMining.Data.Metadata" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAAAAAAgAACAAAAACAQQAAAAAAAAAAAAAIAABI=</HashCode>
+      <FileName>Data\Metadata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iFourmi.DataMining.IO.ArffHelper" Collapsed="true">
+    <Position X="11.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIhAAAAAEAAAACAAAA=</HashCode>
+      <FileName>IO\ArffParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iFourmi.DataMining.IO.Serializer" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAIAAAAAAAAAAAIAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>IO\Serializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iFourmi.DataMining.Model.Prediction" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAEAAAAAAAABEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Prediction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iFourmi.DataMining.Utilities.RandomUtility" Collapsed="true">
+    <Position X="11.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAQAAAAAAAAgAAAAAAwAAAAAAAAAABAA=</HashCode>
+      <FileName>Utilities\RandomUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="iFourmi.DataMining.ClassificationMeasures.ConfusionMatrix" Collapsed="true">
+    <Position X="4" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAFQAAQAQQACABAABAAAQAA=</HashCode>
+      <FileName>ClassificationMeasures\ConfusionMatrix.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="iFourmi.DataMining.Algorithms.IClassificationAlgorithm" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Algorithms\IClassificationAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="iFourmi.DataMining.ClassificationMeasures.IClassificationMeasure">
+    <Position X="5.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>ClassificationMeasures\IClassificationMeasure.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="iFourmi.DataMining.Model.IClassifier">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAEAAA=</HashCode>
+      <FileName>Model\IClassifier.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

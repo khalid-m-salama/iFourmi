@@ -1,0 +1,10 @@
+D:\Academics\Programs\IFourmi-IBL\OptimizationFunctions\bin\Release\iFourmi.OptimizationFunctions.dll
+D:\Academics\Programs\IFourmi-IBL\OptimizationFunctions\bin\Release\iFourmi.OptimizationFunctions.pdb
+D:\Academics\Programs\IFourmi-IBL\OptimizationFunctions\obj\Release\OptimizationFunctions.csprojResolveAssemblyReference.cache
+D:\Academics\Programs\IFourmi-IBL\OptimizationFunctions\obj\Release\iFourmi.OptimizationFunctions.dll
+D:\Academics\Programs\IFourmi-IBL\OptimizationFunctions\obj\Release\iFourmi.OptimizationFunctions.pdb
+D:\Academics\Programs\iFourmi-NN\OptimizationFunctions\obj\Release\OptimizationFunctions.csprojResolveAssemblyReference.cache
+D:\Academics\Programs\iFourmi-NN\OptimizationFunctions\obj\Release\iFourmi.OptimizationFunctions.dll
+D:\Academics\Programs\iFourmi-NN\OptimizationFunctions\obj\Release\iFourmi.OptimizationFunctions.pdb
+D:\Academics\Programs\iFourmi-NN\OptimizationFunctions\bin\Release\iFourmi.OptimizationFunctions.dll
+D:\Academics\Programs\iFourmi-NN\OptimizationFunctions\bin\Release\iFourmi.OptimizationFunctions.pdb

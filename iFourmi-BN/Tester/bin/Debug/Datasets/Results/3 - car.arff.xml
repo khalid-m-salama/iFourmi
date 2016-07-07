@@ -1,0 +1,24 @@
+<graphml>
+<graph id="car" edgedefault="directed" parse.nodes="7" parse.edges="13" parse.order="nodesfirst" parse.nodeids="free" parse.edgeids="free" >
+<node id="buying" />
+<node id="maint" />
+<node id="doors" />
+<node id="persons" />
+<node id="lug_boot" />
+<node id="safety" />
+<node id="Class" />
+<edge id="0" source="buying" target="doors" />
+<edge id="1" source="maint" target="buying" />
+<edge id="2" source="maint" target="lug_boot" />
+<edge id="3" source="persons" target="safety" />
+<edge id="4" source="lug_boot" target="doors" />
+<edge id="5" source="safety" target="buying" />
+<edge id="6" source="safety" target="lug_boot" />
+<edge id="7" source="Class" target="buying" />
+<edge id="8" source="Class" target="maint" />
+<edge id="9" source="Class" target="doors" />
+<edge id="10" source="Class" target="persons" />
+<edge id="11" source="Class" target="lug_boot" />
+<edge id="12" source="Class" target="safety" />
+</graph>
+</graphml>

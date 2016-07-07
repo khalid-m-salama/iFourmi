@@ -1,0 +1,5 @@
+D:\Academics\Programs\IFourmi-DR\Weka.NETBridge\bin\Debug\iFourmi.WekaNETBridge.dll
+D:\Academics\Programs\IFourmi-DR\Weka.NETBridge\bin\Debug\iFourmi.WekaNETBridge.pdb
+D:\Academics\Programs\IFourmi-DR\Weka.NETBridge\obj\Debug\iFourmi.WekaNETBridge.dll
+D:\Academics\Programs\IFourmi-DR\Weka.NETBridge\obj\Debug\iFourmi.WekaNETBridge.pdb
+D:\Academics\Programs\IFourmi-DR\Weka.NETBridge\obj\Debug\WekaNETBridge.csprojResolveAssemblyReference.cache

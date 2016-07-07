@@ -1,0 +1,75 @@
+Object reference not set to an instance of an object.
+   at iFourmi.ACONeuralNets.Algorithms.GHCNN.Initialize() in d:\Academics\Programs\iFourmi-NN\ACONeuralNets\Algorithms\GHCNN.cs:line 98
+   at iFourmi.ACONeuralNets.Algorithms.GHCNN.CreateClassifier() in d:\Academics\Programs\iFourmi-NN\ACONeuralNets\Algorithms\GHCNN.cs:line 172
+   at iFourmi.Main.SingleTest.CreateNeuralNet_GHCNN(Int32 maxIterations, Int32 colonySize, Int32 convergence, Problem`1 problem, Int32 hiddenUnitCount, Boolean wisdom, Boolean performLocalSearch, Dataset trainingset, NeuralNetwork& network_before) in d:\Academics\Programs\iFourmi-NN\Main\SingleTest.cs:line 45
+   at iFourmi.Main.BatchTest.RunGHCNN() in d:\Academics\Programs\iFourmi-NN\Main\BatchTest.cs:line 200
+Object reference not set to an instance of an object.
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.EvaluateSolutionQuality(Solution`1 solution) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 252
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.Initialize() in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 141
+   at iFourmi.ContinuousACO.Algorithms.ACO_R..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archiveSize, Double terminateValue, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 100
+   at iFourmi.ACONeuralNets.Algorithms.ACO_RNN..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archive, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ACONeuralNets\Algorithms\ACO_RNN.cs:line 46
+   at iFourmi.Main.SingleTest.CreateNeuralNet_ACOR(Dataset trainingset, Int32 hiddenUnitCount, Double positiveClassValue, IActivationFunction activationFunction) in d:\Academics\Programs\iFourmi-NN\Main\SingleTest.cs:line 92
+   at iFourmi.Main.BatchTest.RunACORNN() in d:\Academics\Programs\iFourmi-NN\Main\BatchTest.cs:line 140
+Object reference not set to an instance of an object.
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.EvaluateSolutionQuality(Solution`1 solution) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 252
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.Initialize() in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 141
+   at iFourmi.ContinuousACO.Algorithms.ACO_R..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archiveSize, Double terminateValue, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 100
+   at iFourmi.ACONeuralNets.Algorithms.ACO_RNN..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archive, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ACONeuralNets\Algorithms\ACO_RNN.cs:line 46
+   at iFourmi.Main.SingleTest.CreateNeuralNet_ACOR(Dataset trainingset, Int32 hiddenUnitCount, Double positiveClassValue, IActivationFunction activationFunction) in d:\Academics\Programs\iFourmi-NN\Main\SingleTest.cs:line 92
+   at iFourmi.Main.BatchTest.RunACORNN() in d:\Academics\Programs\iFourmi-NN\Main\BatchTest.cs:line 140
+Object reference not set to an instance of an object.
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.EvaluateSolutionQuality(Solution`1 solution) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 252
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.Initialize() in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 141
+   at iFourmi.ContinuousACO.Algorithms.ACO_R..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archiveSize, Double terminateValue, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 100
+   at iFourmi.ACONeuralNets.Algorithms.ACO_RNN..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archive, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ACONeuralNets\Algorithms\ACO_RNN.cs:line 46
+   at iFourmi.Main.SingleTest.CreateNeuralNet_ACOR(Dataset trainingset, Int32 hiddenUnitCount, Double positiveClassValue, IActivationFunction activationFunction) in d:\Academics\Programs\iFourmi-NN\Main\SingleTest.cs:line 92
+   at iFourmi.Main.BatchTest.RunACORNN() in d:\Academics\Programs\iFourmi-NN\Main\BatchTest.cs:line 140
+Object reference not set to an instance of an object.
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.EvaluateSolutionQuality(Solution`1 solution) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 252
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.Initialize() in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 141
+   at iFourmi.ContinuousACO.Algorithms.ACO_R..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archiveSize, Double terminateValue, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 100
+   at iFourmi.ACONeuralNets.Algorithms.ACO_RNN..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archive, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ACONeuralNets\Algorithms\ACO_RNN.cs:line 46
+   at iFourmi.Main.SingleTest.CreateNeuralNet_ACOR(Dataset trainingset, Int32 hiddenUnitCount, Double positiveClassValue, IActivationFunction activationFunction) in d:\Academics\Programs\iFourmi-NN\Main\SingleTest.cs:line 92
+   at iFourmi.Main.BatchTest.RunACORNN() in d:\Academics\Programs\iFourmi-NN\Main\BatchTest.cs:line 140
+Object reference not set to an instance of an object.
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.EvaluateSolutionQuality(Solution`1 solution) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 252
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.Initialize() in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 141
+   at iFourmi.ContinuousACO.Algorithms.ACO_R..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archiveSize, Double terminateValue, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 100
+   at iFourmi.ACONeuralNets.Algorithms.ACO_RNN..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archive, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ACONeuralNets\Algorithms\ACO_RNN.cs:line 46
+   at iFourmi.Main.SingleTest.CreateNeuralNet_ACOR(Dataset trainingset, Int32 hiddenUnitCount, Double positiveClassValue, IActivationFunction activationFunction) in d:\Academics\Programs\iFourmi-NN\Main\SingleTest.cs:line 92
+   at iFourmi.Main.BatchTest.RunACORNN() in d:\Academics\Programs\iFourmi-NN\Main\BatchTest.cs:line 140
+Object reference not set to an instance of an object.
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.EvaluateSolutionQuality(Solution`1 solution) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 252
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.Initialize() in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 141
+   at iFourmi.ContinuousACO.Algorithms.ACO_R..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archiveSize, Double terminateValue, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 100
+   at iFourmi.ACONeuralNets.Algorithms.ACO_RNN..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archive, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ACONeuralNets\Algorithms\ACO_RNN.cs:line 46
+   at iFourmi.Main.SingleTest.CreateNeuralNet_ACOR(Dataset trainingset, Int32 hiddenUnitCount, Double positiveClassValue, IActivationFunction activationFunction) in d:\Academics\Programs\iFourmi-NN\Main\SingleTest.cs:line 92
+   at iFourmi.Main.BatchTest.RunACORNN() in d:\Academics\Programs\iFourmi-NN\Main\BatchTest.cs:line 140
+Object reference not set to an instance of an object.
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.EvaluateSolutionQuality(Solution`1 solution) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 252
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.Initialize() in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 141
+   at iFourmi.ContinuousACO.Algorithms.ACO_R..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archiveSize, Double terminateValue, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 100
+   at iFourmi.ACONeuralNets.Algorithms.ACO_RNN..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archive, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ACONeuralNets\Algorithms\ACO_RNN.cs:line 46
+   at iFourmi.Main.SingleTest.CreateNeuralNet_ACOR(Dataset trainingset, Int32 hiddenUnitCount, Double positiveClassValue, IActivationFunction activationFunction) in d:\Academics\Programs\iFourmi-NN\Main\SingleTest.cs:line 92
+   at iFourmi.Main.BatchTest.RunACORNN() in d:\Academics\Programs\iFourmi-NN\Main\BatchTest.cs:line 140
+Object reference not set to an instance of an object.
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.EvaluateSolutionQuality(Solution`1 solution) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 252
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.Initialize() in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 141
+   at iFourmi.ContinuousACO.Algorithms.ACO_R..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archiveSize, Double terminateValue, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 100
+   at iFourmi.ACONeuralNets.Algorithms.ACO_RNN..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archive, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ACONeuralNets\Algorithms\ACO_RNN.cs:line 46
+   at iFourmi.Main.SingleTest.CreateNeuralNet_ACOR(Dataset trainingset, Int32 hiddenUnitCount, Double positiveClassValue, IActivationFunction activationFunction) in d:\Academics\Programs\iFourmi-NN\Main\SingleTest.cs:line 92
+   at iFourmi.Main.BatchTest.RunACORNN() in d:\Academics\Programs\iFourmi-NN\Main\BatchTest.cs:line 140
+Object reference not set to an instance of an object.
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.EvaluateSolutionQuality(Solution`1 solution) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 252
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.Initialize() in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 141
+   at iFourmi.ContinuousACO.Algorithms.ACO_R..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archiveSize, Double terminateValue, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 100
+   at iFourmi.ACONeuralNets.Algorithms.ACO_RNN..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archive, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ACONeuralNets\Algorithms\ACO_RNN.cs:line 46
+   at iFourmi.Main.SingleTest.CreateNeuralNet_ACOR(Dataset trainingset, Int32 hiddenUnitCount, Double positiveClassValue, IActivationFunction activationFunction) in d:\Academics\Programs\iFourmi-NN\Main\SingleTest.cs:line 92
+   at iFourmi.Main.BatchTest.RunACORNN() in d:\Academics\Programs\iFourmi-NN\Main\BatchTest.cs:line 140
+Object reference not set to an instance of an object.
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.EvaluateSolutionQuality(Solution`1 solution) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 252
+   at iFourmi.ContinuousACO.Algorithms.ACO_R.Initialize() in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 141
+   at iFourmi.ContinuousACO.Algorithms.ACO_R..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archiveSize, Double terminateValue, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ContinuousACO\Algorithms\ACO_R.cs:line 100
+   at iFourmi.ACONeuralNets.Algorithms.ACO_RNN..ctor(Int32 maxIterations, Int32 colonySize, Int32 convergenceIterations, Problem`1 problem, Int32 problemSize, Int32 archive, Double q, Double segma) in d:\Academics\Programs\iFourmi-NN\ACONeuralNets\Algorithms\ACO_RNN.cs:line 46
+   at iFourmi.Main.SingleTest.CreateNeuralNet_ACOR(Dataset trainingset, Int32 hiddenUnitCount, Double positiveClassValue, IActivationFunction activationFunction) in d:\Academics\Programs\iFourmi-NN\Main\SingleTest.cs:line 92
+   at iFourmi.Main.BatchTest.RunACORNN() in d:\Academics\Programs\iFourmi-NN\Main\BatchTest.cs:line 140

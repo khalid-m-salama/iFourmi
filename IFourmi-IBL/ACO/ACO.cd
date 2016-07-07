@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="iFourmi.ACO.Ant&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAADAAAAAAAAgEAAAgAIAAEAQQAAAAAAFAgAAgARA=</HashCode>
+      <FileName>Ant.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.ACO.AntColony&lt;T&gt;">
+    <Position X="9.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAyQEAIAAQABEyRABoQQAEAAAEAAAAAQCAAAgEAAAQA=</HashCode>
+      <FileName>AntColony.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iFourmi.ACO.ConstructionGraph&lt;T&gt;" Collapsed="true">
+    <Position X="3.75" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIABEAAAAAIIAAAACAAAAAEAAAAAAAAAAABAIAAAA=</HashCode>
+      <FileName>ConstructionGraph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iFourmi.ACO.DecisionComponent&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ECAAAAAAJAAAAAEEAgggAIAAQAAAAAAAAEEAAAAAABA=</HashCode>
+      <FileName>DecisionComponent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.ACO.Solution&lt;T&gt;" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIIBAAAAAAAAQAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Solution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iFourmi.ACO.ProblemSpecifics.Problem&lt;T&gt;">
+    <Position X="3.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BABAAAAAAAAAAAAAAAAAIAAAAAAAgAAAQEAAAAEAAAI=</HashCode>
+      <FileName>ProblemSpecifics\Problem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="iFourmi.ACO.ProblemSpecifics.IComponentInvalidator&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProblemSpecifics\IComponentInvalidator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="iFourmi.ACO.ProblemSpecifics.IHeuristicsCalculator&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>ProblemSpecifics\IHeuristicsCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="iFourmi.ACO.ProblemSpecifics.ILocalSearch&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ProblemSpecifics\ILocalSearch.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="iFourmi.ACO.ProblemSpecifics.ISolutionQualityEvaluator&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProblemSpecifics\ISolutionQualityEvaluator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

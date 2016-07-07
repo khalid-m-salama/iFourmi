@@ -1,0 +1,2 @@
+ABCMiner,car,98.93,15,31
+ABCMiner,car,96.84,13,3

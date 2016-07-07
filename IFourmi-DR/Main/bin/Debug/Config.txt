@@ -1,0 +1,3 @@
+D:\Academics\Others\Datasets\Datasets  - All
+KNN
+NBayes

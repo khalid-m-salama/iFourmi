@@ -1,0 +1,21 @@
+F:\Khaled\Code\ACO\Functions\bin\Debug\Functions.dll
+F:\Khaled\Code\ACO\Functions\bin\Debug\Functions.pdb
+F:\Khaled\Code\ACO\Functions\bin\Debug\Contracts.dll
+F:\Khaled\Code\ACO\Functions\bin\Debug\Contracts.pdb
+F:\Khaled\Code\ACO\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
+F:\Khaled\Code\ACO\Functions\obj\Debug\Functions.dll
+F:\Khaled\Code\ACO\Functions\obj\Debug\Functions.pdb
+C:\Users\FlameHead\Desktop\ACO-C\Functions\bin\Debug\Functions.dll
+C:\Users\FlameHead\Desktop\ACO-C\Functions\bin\Debug\Functions.pdb
+C:\Users\FlameHead\Desktop\ACO-C\Functions\bin\Debug\Contracts.dll
+C:\Users\FlameHead\Desktop\ACO-C\Functions\bin\Debug\Contracts.pdb
+C:\Users\FlameHead\Desktop\ACO-C\Functions\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FlameHead\Desktop\ACO-C\Functions\obj\Debug\Functions.dll
+C:\Users\FlameHead\Desktop\ACO-C\Functions\obj\Debug\Functions.pdb
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\Code\ACO-C\Functions\bin\Debug\Functions.dll
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\Code\ACO-C\Functions\bin\Debug\Functions.pdb
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\Code\ACO-C\Functions\bin\Debug\Contracts.dll
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\Code\ACO-C\Functions\bin\Debug\Contracts.pdb
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\Code\ACO-C\Functions\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\Code\ACO-C\Functions\obj\Debug\Functions.dll
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\Code\ACO-C\Functions\obj\Debug\Functions.pdb

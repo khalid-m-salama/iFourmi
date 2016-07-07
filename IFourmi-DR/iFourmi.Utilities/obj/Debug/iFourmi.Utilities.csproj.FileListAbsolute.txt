@@ -1,0 +1,5 @@
+D:\Academics\Programs\IFourmi-DR\iFourmi.Utilities\bin\Debug\iFourmi.Utilities.dll
+D:\Academics\Programs\IFourmi-DR\iFourmi.Utilities\bin\Debug\iFourmi.Utilities.pdb
+D:\Academics\Programs\IFourmi-DR\iFourmi.Utilities\obj\Debug\iFourmi.Utilities.csprojResolveAssemblyReference.cache
+D:\Academics\Programs\IFourmi-DR\iFourmi.Utilities\obj\Debug\iFourmi.Utilities.dll
+D:\Academics\Programs\IFourmi-DR\iFourmi.Utilities\obj\Debug\iFourmi.Utilities.pdb

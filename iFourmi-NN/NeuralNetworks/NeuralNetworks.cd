@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="iFourmi.NeuralNetworks.ActivationFunctions.SigmoidActivationFunction" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActivationFunctions\SigmoidActivationFunction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.NeuralNetworks.ActivationFunctions.SineActivationFunction" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActivationFunctions\SineActivationFunction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.NeuralNetworks.ActivationFunctions.TanhActivationFunction" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActivationFunctions\TanhActivationFunction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.NeuralNetworks.LearningMethods.BackPropagation" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAgQAAAAQAgAAAAAAAAAAAAAAAAgAAAAAAAAAAGA=</HashCode>
+      <FileName>LearningMethods\BackPropagation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.NeuralNetworks.LearningMethods.BPEventArgs" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LearningMethods\BackPropagation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iFourmi.NeuralNetworks.Model.Connection" Collapsed="true">
+    <Position X="8" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EgAAAAACAAAAAAAEAAAAAAAAACAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iFourmi.NeuralNetworks.Model.NeuralNetwork" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BYIgAAAAAAAAAAAAAiAAgAAQAEAAAAgAACEARAAGAMA=</HashCode>
+      <FileName>Model\NeuralNetwork.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.NeuralNetworks.Model.Neuron" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAAAAQAQBAAQAAAAAIAAIAAhAIAAAEAEUAACABBAA=</HashCode>
+      <FileName>Model\Neuron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="iFourmi.NeuralNetworks.ActivationFunctions.IActivationFunction" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActivationFunctions\IActivationFunction.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="iFourmi.NeuralNetworks.LearningMethods.ILearningMethod" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>LearningMethods\ILearningMethod.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="iFourmi.DataMining.Algorithms.IClassificationAlgorithm" Collapsed="true">
+    <Position X="6.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="iFourmi.DataMining.Model.IClassifier" Collapsed="true">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Enum Name="iFourmi.NeuralNetworks.Model.LayerType" Collapsed="true">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Model\LayerType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

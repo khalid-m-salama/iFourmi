@@ -1,0 +1,53 @@
+C:\0 - Khalid\Academics\ABC-Miner\iFourmi\ACO\bin\Debug\iFourmi.ACO.dll
+C:\0 - Khalid\Academics\ABC-Miner\iFourmi\ACO\bin\Debug\iFourmi.ACO.pdb
+C:\0 - Khalid\Academics\ABC-Miner\iFourmi\ACO\bin\Debug\iFourmi.BayesianNetworks.dll
+C:\0 - Khalid\Academics\ABC-Miner\iFourmi\ACO\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\ABC-Miner\iFourmi\ACO\bin\Debug\iFourmi.BayesianNetworks.pdb
+C:\0 - Khalid\Academics\ABC-Miner\iFourmi\ACO\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\ABC-Miner\iFourmi\ACO\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\ABC-Miner\iFourmi\ACO\obj\Debug\iFourmi.ACO.dll
+C:\0 - Khalid\Academics\ABC-Miner\iFourmi\ACO\obj\Debug\iFourmi.ACO.pdb
+C:\0 - Khalid\Academics\Programs\iFourmi\ACO\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Programs\iFourmi\ACO\obj\Debug\iFourmi.ACO.dll
+C:\0 - Khalid\Academics\Programs\iFourmi\ACO\obj\Debug\iFourmi.ACO.pdb
+C:\0 - Khalid\Academics\Programs\iFourmi\ACO\bin\Debug\iFourmi.ACO.dll
+C:\0 - Khalid\Academics\Programs\iFourmi\ACO\bin\Debug\iFourmi.ACO.pdb
+C:\0 - Khalid\Academics\Programs\iFourmi\ACO\bin\Debug\iFourmi.BayesianNetworks.dll
+C:\0 - Khalid\Academics\Programs\iFourmi\ACO\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Programs\iFourmi\ACO\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Programs\iFourmi\ACO\bin\Debug\iFourmi.BayesianNetworks.pdb
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\ACO\bin\Debug\iFourmi.ACO.dll
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\ACO\bin\Debug\iFourmi.ACO.pdb
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\ACO\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\ACO\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\ACO\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\ACO\obj\Debug\iFourmi.ACO.dll
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\ACO\obj\Debug\iFourmi.ACO.pdb
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\ACO\bin\Debug\iFourmi.ACO.dll
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\ACO\bin\Debug\iFourmi.ACO.pdb
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\ACO\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\ACO\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\ACO\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\ACO\obj\Debug\iFourmi.ACO.dll
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\ACO\obj\Debug\iFourmi.ACO.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\ACO\bin\Debug\iFourmi.ACO.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\ACO\bin\Debug\iFourmi.ACO.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\ACO\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\ACO\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\ACO\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\ACO\obj\Debug\iFourmi.ACO.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\ACO\obj\Debug\iFourmi.ACO.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\ACO\bin\Debug\iFourmi.ACO.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\ACO\bin\Debug\iFourmi.ACO.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\ACO\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\ACO\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\ACO\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\ACO\obj\Debug\iFourmi.ACO.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\ACO\obj\Debug\iFourmi.ACO.pdb
+D:\Academics\Programs\iFourmi-NN\ACO\bin\Debug\iFourmi.ACO.dll
+D:\Academics\Programs\iFourmi-NN\ACO\bin\Debug\iFourmi.ACO.pdb
+D:\Academics\Programs\iFourmi-NN\ACO\bin\Debug\iFourmi.DataMining.dll
+D:\Academics\Programs\iFourmi-NN\ACO\bin\Debug\iFourmi.DataMining.pdb
+D:\Academics\Programs\iFourmi-NN\ACO\obj\Debug\ACO.csprojResolveAssemblyReference.cache
+D:\Academics\Programs\iFourmi-NN\ACO\obj\Debug\iFourmi.ACO.dll
+D:\Academics\Programs\iFourmi-NN\ACO\obj\Debug\iFourmi.ACO.pdb

@@ -1,0 +1,4 @@
+Object reference not set to an instance of an object.
+   at iFourmi.DataMining.ClassificationMeasures.QLFunction.CalculateMeasure(IClassifier classifier, Dataset dataset) in d:\Academics\Programs\iFourmi-NN\DataMining\ClassificationMeasures\QLFunction.cs:line 34
+   at iFourmi.Main.SingleTest.TestClassifier(IClassifier classifier, Dataset testingSet, IClassificationMeasure measure) in d:\Academics\Programs\iFourmi-NN\Main\SingleTest.cs:line 118
+   at iFourmi.Main.BatchTest.RunANNMiner_ACOR() in d:\Academics\Programs\iFourmi-NN\Main\BatchTest.cs:line 394

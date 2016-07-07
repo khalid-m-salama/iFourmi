@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="iFourmi.ACONeuralNets.Algorithms.ANNMiner" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAhAAAAQCAIAAQIEAAAQAEAAQEAAAACQAAAAABAAAAA=</HashCode>
+      <FileName>Algorithms\ANNMiner.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.ACONeuralNets.Algorithms.AntANN" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Algorithms\AntANN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iFourmi.ACONeuralNets.ConnectionDC" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConnectionDC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iFourmi.ACONeuralNets.ConstructionGraphBuilder" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConstructionGraphBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iFourmi.ACONeuralNets.ProblemSpecifics.ComponentInvalidators.NNConnectorInvalidator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAICCCAEEAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProblemSpecifics\ComponentInvalidators\NNConnectorInvalidator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.ACONeuralNets.ProblemSpecifics.HeuristicCalculators.DefaultHeuristicCalculator&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAIAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>ProblemSpecifics\HeuristicCalculator\DefaultHeuristicCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.ACONeuralNets.ProblemSpecifics.LocalSearch.DefaultRemovalLocalSearch&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAEAAAQA=</HashCode>
+      <FileName>ProblemSpecifics\LocalSearch\DefaultRemovalLocalSearch.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="iFourmi.ACONeuralNets.ProblemSpecifics.QualityEvaluators.NNClassificationQualityEvaluator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAADAAAAAAAAAAAgAAAAMAAAEAAAAACAAIAAIA=</HashCode>
+      <FileName>ProblemSpecifics\QualityEvaluator\NNClassificationQualityEvaluator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

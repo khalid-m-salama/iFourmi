@@ -1,0 +1,45 @@
+C:\0 - Khalid\Academics\ABC-Miner\iFourmi\DataMining\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\ABC-Miner\iFourmi\DataMining\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\ABC-Miner\iFourmi\DataMining\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\ABC-Miner\iFourmi\DataMining\obj\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\ABC-Miner\iFourmi\DataMining\obj\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Programs\iFourmi\DataMining\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Programs\iFourmi\DataMining\obj\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Programs\iFourmi\DataMining\obj\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Programs\iFourmi\DataMining\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Programs\iFourmi\DataMining\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\DataMining\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\DataMining\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\DataMining\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\DataMining\obj\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Topics Material\Neural Networks\iFourmi-NN\DataMining\obj\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\DataMining\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\DataMining\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\DataMining\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\DataMining\obj\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Programs\iFourmi-NN\DataMining\obj\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\DataMining\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\DataMining\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\DataMining\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\DataMining\obj\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\DataMining\obj\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\DataMining\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\DataMining\bin\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\DataMining\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\DataMining\obj\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\DataMining\obj\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Programs\IFourmi-IBL\DataMining\obj\Debug\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Programs\IFourmi-IBL\DataMining\obj\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Programs\IFourmi-IBL\DataMining\obj\Debug\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Programs\IFourmi-IBL\DataMining\bin\Debug\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Programs\IFourmi-IBL\DataMining\bin\Debug\iFourmi.DataMining.pdb
+D:\Academics\Programs\IFourmi-IBL\DataMining\bin\Debug\iFourmi.DataMining.dll
+D:\Academics\Programs\IFourmi-IBL\DataMining\bin\Debug\iFourmi.DataMining.pdb
+D:\Academics\Programs\IFourmi-IBL\DataMining\obj\Debug\DataMining.csprojResolveAssemblyReference.cache
+D:\Academics\Programs\IFourmi-IBL\DataMining\obj\Debug\iFourmi.DataMining.dll
+D:\Academics\Programs\IFourmi-IBL\DataMining\obj\Debug\iFourmi.DataMining.pdb
+D:\Academics\Programs\IFourmi-DR\DataMining\bin\Debug\iFourmi.DataMining.dll
+D:\Academics\Programs\IFourmi-DR\DataMining\bin\Debug\iFourmi.DataMining.pdb
+D:\Academics\Programs\IFourmi-DR\DataMining\obj\Debug\iFourmi.DataMining.dll
+D:\Academics\Programs\IFourmi-DR\DataMining\obj\Debug\iFourmi.DataMining.pdb
+D:\Academics\Programs\IFourmi-DR\DataMining\obj\Debug\DataMining.csprojResolveAssemblyReference.cache

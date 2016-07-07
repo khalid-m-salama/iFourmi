@@ -1,0 +1,43 @@
+﻿         #region HLocal
+
+
+
+            //BatchTest.DatasetFolderPath = @"C:\0 - Khalid\Academics\Datasets\ageing";
+
+            //iFourmi.DataMining.ClassificationMeasures.IClassificationQualityEvaluator accuracy = new iFourmi.DataMining.ClassificationMeasures.AccuracyEvaluator();
+            //iFourmi.DataMining.ClassificationMeasures.IClassificationQualityEvaluator fmeasure = new iFourmi.DataMining.ClassificationMeasures.FmeasureEvaluator(1);
+
+            //iFourmi.DataMining.EnsembleStrategy.IEnsembleClassificationStrategy strategy1 = new iFourmi.DataMining.EnsembleStrategy.EnsembleBestClassificationStrategy();
+            //iFourmi.DataMining.EnsembleStrategy.IEnsembleClassificationStrategy strategy2 = new iFourmi.DataMining.EnsembleStrategy.EnsembleVoteClassificationStrategy();
+            //iFourmi.DataMining.EnsembleStrategy.IEnsembleClassificationStrategy strategy3 = new iFourmi.DataMining.EnsembleStrategy.EnsembleWVoteClassificationStrategy();
+            //iFourmi.DataMining.EnsembleStrategy.IEnsembleClassificationStrategy strategy4 = new iFourmi.DataMining.EnsembleStrategy.EnsembleStackClassificationStrategy();
+
+            //BatchTest.RunNaiveHlocal(accuracy);
+            //BatchTest.RunNaiveHlocal(fmeasure);
+
+            //BatchTest.RunNaiveHlocal(strategy1, accuracy);
+            //BatchTest.RunNaiveHlocal(strategy2, accuracy);
+            //BatchTest.RunNaiveHlocal(strategy3, accuracy);
+            //BatchTest.RunNaiveHlocal(strategy4, accuracy);
+
+            //BatchTest.RunNaiveHlocal(strategy1, fmeasure);
+            //BatchTest.RunNaiveHlocal(strategy2, fmeasure);
+            //BatchTest.RunNaiveHlocal(strategy3, fmeasure);
+            //BatchTest.RunNaiveHlocal(strategy4, fmeasure);
+
+
+            //BatchTest.RunABCHlocal(accuracy);
+            //BatchTest.RunABCHlocal(fmeasure);
+        
+            // BatchTest.RunABCHlocal(strategy1, accuracy);
+            // BatchTest.RunABCHlocal(strategy2, accuracy);
+            // BatchTest.RunABCHlocal(strategy3, accuracy);
+            // BatchTest.RunABCHlocal(strategy4, accuracy);
+
+            // BatchTest.RunABCHlocal(strategy1, fmeasure);
+            // BatchTest.RunABCHlocal(strategy2, fmeasure);
+            // BatchTest.RunABCHlocal(strategy3, fmeasure);
+            // BatchTest.RunABCHlocal(strategy4, fmeasure);
+                       
+
+            #endregion

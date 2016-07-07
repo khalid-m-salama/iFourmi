@@ -1,0 +1,20 @@
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\DataMining\bin\Release\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\DataMining\bin\Release\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\DataMining\obj\Release\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\DataMining\obj\Release\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN (2)\DataMining\obj\Release\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\DataMining\bin\Release\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\DataMining\bin\Release\iFourmi.DataMining.pdb
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\DataMining\obj\Release\ResolveAssemblyReference.cache
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\DataMining\obj\Release\iFourmi.DataMining.dll
+C:\0 - Khalid\Academics\Neural Networks\Code\iFourmi-NN\DataMining\obj\Release\iFourmi.DataMining.pdb
+C:\0-Khalid\Academics\Programs\iFourmi-NN\DataMining\bin\Release\iFourmi.DataMining.dll
+C:\0-Khalid\Academics\Programs\iFourmi-NN\DataMining\bin\Release\iFourmi.DataMining.pdb
+C:\0-Khalid\Academics\Programs\iFourmi-NN\DataMining\obj\Release\DataMining.csprojResolveAssemblyReference.cache
+C:\0-Khalid\Academics\Programs\iFourmi-NN\DataMining\obj\Release\iFourmi.DataMining.dll
+C:\0-Khalid\Academics\Programs\iFourmi-NN\DataMining\obj\Release\iFourmi.DataMining.pdb
+D:\Academics\Programs\iFourmi-NN\DataMining\bin\Release\iFourmi.DataMining.dll
+D:\Academics\Programs\iFourmi-NN\DataMining\bin\Release\iFourmi.DataMining.pdb
+D:\Academics\Programs\iFourmi-NN\DataMining\obj\Release\DataMining.csprojResolveAssemblyReference.cache
+D:\Academics\Programs\iFourmi-NN\DataMining\obj\Release\iFourmi.DataMining.dll
+D:\Academics\Programs\iFourmi-NN\DataMining\obj\Release\iFourmi.DataMining.pdb
